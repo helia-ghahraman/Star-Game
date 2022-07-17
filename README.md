@@ -25,5 +25,5 @@ My midterm project of the second semester.this is a simple but exciting game in 
 ![5](https://user-images.githubusercontent.com/76126890/179420785-1aa93014-ebf0-4758-8573-b8a3a3485171.png)
 
 
-4) one of the players win the game:
+In the end one of the players with more stars wins!
 
