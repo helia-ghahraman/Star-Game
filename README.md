@@ -17,5 +17,13 @@ My midterm project of the second semester.this is a simple but exciting game in 
 ![3](https://user-images.githubusercontent.com/76126890/179420770-99b0149a-8184-47d9-9474-d973359bbc8b.png)
 
 
+
+
 3)playing the game:
+
+
+![5](https://user-images.githubusercontent.com/76126890/179420785-1aa93014-ebf0-4758-8573-b8a3a3485171.png)
+
+
+4) one of the players win the game:
 
