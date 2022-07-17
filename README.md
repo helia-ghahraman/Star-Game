@@ -12,3 +12,10 @@ My midterm project of the second semester.this is a simple but exciting game in 
 2)choosing dimensions of the board:
 
 ![2](https://user-images.githubusercontent.com/76126890/179420731-11dc8666-16ce-4731-b6c2-07a63ae9e001.png)
+
+
+![3](https://user-images.githubusercontent.com/76126890/179420770-99b0149a-8184-47d9-9474-d973359bbc8b.png)
+
+
+3)playing the game:
+
